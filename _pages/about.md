@@ -9,10 +9,7 @@ redirect_from:
 
 I am Minze Xu. I am doing my final year project in [Laser Metrology and Biomedicine Lab](https://www.renjiezhou.com/) at CUHK, working with Prof. Renjie Zhou. 
 
-obtain his bachelor’s degree in Optoelectronic Information Science and Engineering from Huazhong University of
-Science and Technology. His research interests include computational optical imaging, biomedical imaging and
-diffraction calculation.
-I'm currently enrolled in the Graduate Academic Preparation Program at UCSB as an international student, working with Prof.Spenser LaVere Smith. At the same time , I'm a member of Bachelor-Master-PhD Integrated Innovation Honors Class for Optoeletronics, pursuing a Bachelor's Degree at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
+My research interests include computational optical imaging, biomedical imaging, and phase retrieval. Now I am a member of Bachelor-Master-PhD Integrated Innovation Honors Class for Optoeletronics, pursuing a Bachelor's Degree at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
 
 Projects
 ======
