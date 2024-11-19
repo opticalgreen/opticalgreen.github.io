@@ -11,7 +11,7 @@ I am Minze Xu. I am doing my final year project in [Laser Metrology and Biomedic
 
 My research interests include computational optical imaging, biomedical imaging, and phase retrieval. Now I am a member of Bachelor-Master-PhD Integrated Innovation Honors Class for Optoeletronics, pursuing a Bachelor's Degree at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
 
-From February 2024 to November 2024, I was advised by Prof. Shili Wei(Now at University of Electronic Science and Technology of China) and Prof. Donglin Ma at the Laboratory for Modern Applied Optics, Huazhong University of Science and Technology, focusing on **diffraction calculation**. Prior to this, from March 2023 to August 2023, I was advised by Prof. Jianfeng Zang at the Laboratory for Soft Nanomaterials and Devices, Huazhong University of Science and Technology, where I worked on **intelligent soft biomaterials**.
+From February 2024 to November 2024, I was advised by Prof. Shili Wei(Now at University of Electronic Science and Technology of China) and Prof. Donglin Ma at the Laboratory for Modern Applied Optics, Huazhong University of Science and Technology, focusing on **computational imaging** and **diffraction calculation**. Prior to this, from March 2023 to August 2023, I was advised by Prof. Jianfeng Zang at the Laboratory for Soft Nanomaterials and Devices, Huazhong University of Science and Technology, where I worked on **intelligent soft biomaterials**.
 
 Projects
 ======
