@@ -42,10 +42,10 @@ Curriculum Design: Dammann Grating Simulation Design and Fabrication
 ------
 Curriculum Design: Supervised by Prof. Zhenyu Yang, School of Optical and Electronic Information, Huazhong University of Science and Technology (Sept 2023 - Jan 2024)
 
-Designed and fabricated .
+Designed and fabricated the Dammann grating with required focusing efficiency and uniformity.
 
-Served as deputy leader
+Served as core member
 
-- Completed the preliminary design of the optical section.
-- Performed mechanical design.
-- Handled camera mounting and adjustment.
+- Calculated the related parameters of Dammann grating  
+- Writed the simulation code of Dammann grating and multi-value phase grating
+- Verified the theoretical predictions regarding focusing efficiency and uniformity.
