@@ -46,6 +46,6 @@ Designed and fabricated .
 
 Served as deputy leader
 
--Completed the preliminary design of the optical section.
--Performed mechanical design.
--Handled camera mounting and adjustment.
+- Completed the preliminary design of the optical section.
+- Performed mechanical design.
+- Handled camera mounting and adjustment.
