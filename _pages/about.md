@@ -40,4 +40,12 @@ Example: editing a markdown file for a talk
 
 Curriculum Design: Dammann Grating Simulation Design and Fabrication
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Curriculum Design: Supervised by Prof. Zhenyu Yang, School of Optical and Electronic Information, Huazhong University of Science and Technology (Sept 2023 - Jan 2024)
+
+Designed and fabricated .
+
+Served as deputy leader
+
+-Completed the preliminary design of the optical section.
+-Performed mechanical design.
+-Handled camera mounting and adjustment.
