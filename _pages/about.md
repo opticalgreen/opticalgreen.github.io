@@ -25,15 +25,7 @@ Abstract: Numerical calculation of light wave propagation based on scalar diffra
 A Generative Deep Neural Network for Quantitative Phase Imaging (Ongoing)
 ------
 
-Phase recovery (PR) refers to calculating the phase of the light field from its intensity measurements. As exemplified
-from quantitative phase imaging and coherent diffraction imaging to adaptive optics, PR is essential for reconstructing
-the refractive index distribution or topography of an object and correcting the aberration of an imaging system. In
-recent years, deep learning (DL), often implemented through deep neural networks, has provided unprecedented
-support for computational imaging, leading to more efficient solutions for various PR problems. In this review, we first
-briefly introduce conventional methods for PR. Then, we review how DL provides support for PR from the following
-three stages, namely, pre-processing, in-processing, and post-processing. We also review how DL is used in phase
-image processing. Finally, we summarize the work in DL for PR and provide an outlook on how to better use DL to
-improve the reliability and efficiency of PR. 
+Abstract: Quantitative phase imaging (QPI), as a label-free bioimaging modality, provides high-contrast and quantitative mapping of the physical and chemical properties of cells and tissues. Phase recovery (PR) refers to calculating the phase of the light field from its intensity measurements. As exemplified from quantitative phase imaging and coherent diffraction imaging to adaptive optics, PR is essential for reconstructing the refractive index distribution or topography of an object and correcting the aberration of an imaging system. In recent years, deep learning (DL), often implemented through deep neural networks, has provided unprecedented support for computational imaging, leading to more efficient solutions for various PR problems. In this review, we first briefly introduce conventional methods for PR. Then, we review how DL provides support for PR from the following three stages, namely, pre-processing, in-processing, and post-processing. We also review how DL is used in phase image processing. Finally, we summarize the work in DL for PR and provide an outlook on how to better use DL to improve the reliability and efficiency of PR. 
 
 
 
