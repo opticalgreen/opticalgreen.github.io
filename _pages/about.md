@@ -49,4 +49,4 @@ Served as core member
 - Calculated the related parameters of Dammann grating  
 - Writed the simulation code of Dammann grating and multi-value phase grating
 - Verified the theoretical predictions regarding focusing efficiency and uniformity.
-- (/images/editing-talk.png)
+- [](/images/editing-talk.png)
