@@ -49,4 +49,4 @@ Served as core member
 - Calculated the related parameters of Dammann grating  
 - Writed the simulation code of Dammann grating and multi-value phase grating
 - Verified the theoretical predictions regarding focusing efficiency and uniformity.
-- ![Optical Design](https://github.com/opticalgreen/opticalgreen.github.io/blob/master/images/homepage.png))
+- (/images/editing-talk.png)
