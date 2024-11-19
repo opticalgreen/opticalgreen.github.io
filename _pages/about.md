@@ -18,25 +18,25 @@ Projects
 
 A Flexible and Efficient Nonparaxial Propagation Method for Optical Fields with Arbitrary Smooth Wavefronts
 ------
-Minze Xu, Shili Wei, Donglin Ma
+**Minze Xu**, Shili Wei, Donglin Ma
 
-Numerical calculation of light wave propagation based on scalar diffraction is widely used in many applications, such as digital holography, phase recovery, diffraction tomography, and beam quality analysis. The fast Fourier transform (FFT)-based angular spectrum method (ASM) is widely used because of its fast computing speed. However, the FFT-based ASM is not suitable for calculating propagation of the wavefronts with large phase gradients(nonparaxial) due to the problem of undersampling of frequency transfer function , and the size of the observation plane cannot be changed flexibly. To solve these problems, we proposed a flexible and efficient nonparaxial propagation method for optical fields with arbitrary smooth wavefronts to break these constraints. Firstly, we decomposed the input wavefronts with gaussian beams to reduce the number of sampling points so that we cut down the cost of calculating the Fourier transform of input optical fields. Then we utilized the nonuniform sampling strategy in the space frequency domain to meet the requirement of local frequency. Furthermore, we designed a new algorithm based on matrix product method that can calculate the inverse Fourier transform from nonuniform sampled frequency domain.
+Abstract: Numerical calculation of light wave propagation based on scalar diffraction is widely used in many applications, such as digital holography, phase recovery, diffraction tomography, and beam quality analysis. The fast Fourier transform (FFT)-based angular spectrum method (ASM) is widely used because of its fast computing speed. However, the FFT-based ASM is not suitable for calculating propagation of the wavefronts with large phase gradients(nonparaxial) due to the problem of undersampling of frequency transfer function , and the size of the observation plane cannot be changed flexibly. To solve these problems, we proposed a flexible and efficient nonparaxial propagation method for optical fields with arbitrary smooth wavefronts to break these constraints. Firstly, we decomposed the input wavefronts with gaussian beams to reduce the number of sampling points so that we cut down the cost of calculating the Fourier transform of input optical fields. Then we utilized the nonuniform sampling strategy in the space frequency domain to meet the requirement of local frequency. Furthermore, we designed a new algorithm based on matrix product method that can calculate the inverse Fourier transform from nonuniform sampled frequency domain.
 
-Developing generative quantitative phase imaging deep neural network for potential enhancement of resolution and multi-task application(ongoing)
+A Generative Deep Neural Network for Quantitative Phase Imaging (Ongoing)
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+Phase recovery (PR) refers to calculating the phase of the light field from its intensity measurements. As exemplified
+from quantitative phase imaging and coherent diffraction imaging to adaptive optics, PR is essential for reconstructing
+the refractive index distribution or topography of an object and correcting the aberration of an imaging system. In
+recent years, deep learning (DL), often implemented through deep neural networks, has provided unprecedented
+support for computational imaging, leading to more efficient solutions for various PR problems. In this review, we first
+briefly introduce conventional methods for PR. Then, we review how DL provides support for PR from the following
+three stages, namely, pre-processing, in-processing, and post-processing. We also review how DL is used in phase
+image processing. Finally, we summarize the work in DL for PR and provide an outlook on how to better use DL to
+improve the reliability and efficiency of PR. 
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-Research Intern: Intelligent Soft Biomaterials
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 Curriculum Design: Dammann Grating Simulation Design and Fabrication
 ------
@@ -49,4 +49,4 @@ Served as core member
 - Calculated the related parameters of Dammann grating  
 - Writed the simulation code of Dammann grating and multi-value phase grating
 - Verified the theoretical predictions regarding focusing efficiency and uniformity.
-![](/images/editing-talk.png)
+
