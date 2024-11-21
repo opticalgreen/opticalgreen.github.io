@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Minze Xu. I am doing my final year project in [Laser Metrology and Biomedicine Lab](https://www.renjiezhou.com/) at CUHK, working with Prof. Renjie Zhou, focusing on **quantitative phase imaging**. 
+I am Minze Xu. I am doing my final year project in [Laser Metrology and Biomedicine Lab](https://www.renjiezhou.com/) at CUHK, working with Prof. Renjie Zhou, focusing on **computational imaging** and **quantitative phase imaging**. 
 
 My research interests include computational optical imaging, biomedical imaging, and phase retrieval. Now I am a member of Bachelor-Master-PhD Integrated Innovation Honors Class for Optoeletronics, pursuing a Bachelor's Degree at the School of Optical and Electronic Information, Huazhong University of Science and Technology, China.
 
